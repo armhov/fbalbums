@@ -1,0 +1,14 @@
+.fb-images {
+    padding: 15px;
+    height: 200px;
+    overflow: hidden;
+}
+.fb-login {
+    margin-top: 150px;
+}
+#albums_list {
+    margin: 30px auto;
+    padding: 8px 15px;
+    text-align: center;
+    display: block;
+}
